@@ -8,4 +8,5 @@ Tip: in order to force Chrome dark mode you can find it using `chrome://flags` U
 
 ## Bonnus
 
-You can add responsive comportment to this old fashioned email.
+- You can add responsive comportment to this old fashioned email.
+- You can add a npm package to minify this message producing a `email-dark-mode.min.html` file.
