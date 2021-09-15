@@ -10,3 +10,5 @@ Tip: in order to force Chrome dark mode you can find it using `chrome://flags` U
 
 - You can add responsive comportment to this old fashioned email.
 - You can add a npm package to minify this message producing a `email-dark-mode.min.html` file.
+
+=> I added a npm script to create the minified message simply typing "npm run minify".
